@@ -6,6 +6,8 @@
 # push is dat je al je wijzigigen naar github verstuurd
 # pull is dat je de wijzigingen die op github staan maar nog niet lokaal syncroniseert op je lokale folder
 
+## 2. Goed voorbeeld: Een toegoeging van spiekbrief.md met uitleg wat clone,commit,push en pull is ; Slecht voorbeeld: verandering spiekbrief.md
+
 ## 3. Gitignore
 # een .gitignore zegt aan Git welke bestanden of bestandstypes het moet negeren, zodat rommel zoals Thumbs.db, .DS_Store, .zip- en .log-bestanden nooit per ongeluk in je repository terechtkomen.
 
