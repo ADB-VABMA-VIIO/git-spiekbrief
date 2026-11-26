@@ -1,4 +1,4 @@
-# Spiekbrief Git en GitHub
+# Spiekbrief Git en GitHub, versie van mijn laptop
 
 ## 1. Clone, commit, push en pull
 # clone pakt de bestanden van de repository en voegt die toe aan je lokale map waarmee je met github desktop het hebt toegevoegd.
